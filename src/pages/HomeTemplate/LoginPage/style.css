@@ -1,0 +1,32 @@
+.input-group-text{
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border:0 !important;
+}
+.input-group-username,.input-group-password{
+    border-radius: 5px;
+    border: 1.5px solid gray;
+    line-height: 37px;
+
+
+} 
+@media screen and (max-width: 415px) {
+    .input-group div{
+        width: 80%;
+
+    }
+    .input-group-icon{
+        width: 15%!important;
+    }
+    .input-group-password{
+        width: 95%!important;
+        margin-left: 10px;
+    }
+    .input-group-username{
+        width: 95%!important;
+        margin-left: 10px;
+    }
+  }
+    
+    

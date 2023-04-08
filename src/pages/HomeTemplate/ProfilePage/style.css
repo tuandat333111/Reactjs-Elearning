@@ -1,0 +1,31 @@
+.nav-link{
+  color: #fec235!important;
+  
+}
+.nav-link.active{
+  color: black!important;
+  background-color: #fec235!important;
+}
+.tab-content {
+  border: 1px solid #dee2e6;
+  background-color: aliceblue!important;
+}
+.tab-pane.active{
+  background-color: white!important;
+}
+.info-input{
+  height: 41px;
+  width: 130%;
+  border-radius: 5px;
+}
+.form-info{
+  width: 450px;
+}
+.edit-button a{
+  width: 250px;
+}
+@media screen and (max-width:415px){
+    .info-input{
+      width: 88%;
+    }
+}

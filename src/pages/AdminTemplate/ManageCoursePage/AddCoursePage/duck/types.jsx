@@ -1,0 +1,4 @@
+export const CATEGORY_COURSE_SUCCESS = "@addCourseReducer/CATEGORY_COURSE_SUCCESS"
+export const ADD_COURSE_SUCCESS = "@addCourseReducer/ADD_COURSE_SUCCESS"
+export const ADD_COURSE_FAIL = "@addCourseReducer/ADD_COURSE_FAIL"
+// export const LAYDANHSACHNGUOIDUNG_SUCCESS = "addCourseReducer/LAYDANHSACHNGUOIDUNG_SUCCESS"
